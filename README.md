@@ -19,6 +19,16 @@ My background includes five years of experience as a Banking Relationship Manage
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable" />
 </p>
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Richards22&show_icons=true&hide_title=true&include_all_commits=true" alt="GitHub statistics for Richards22" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richards22&layout=compact&langs_count=6" alt="Most used languages across public repositories" />
+</p>
+
 ## 🚀 Featured Projects
 
 ### 1. SME Loan Pre-Screening Automation System
